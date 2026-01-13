@@ -1,0 +1,4 @@
+bin/
+test-output/
+*.class
+lib/jxbrowser-win64-7.39.0.jar
