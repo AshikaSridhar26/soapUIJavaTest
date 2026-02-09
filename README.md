@@ -27,7 +27,6 @@ docker compose up -d
 
 Run tests
 Use Maven or your IDE to run the TestNG suite in testng.xml.
-Example (if Maven configured):
 mvn clean test
 
 View results
